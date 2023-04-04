@@ -14,16 +14,14 @@ Before running the Python scripts, make sure you have the following dependencies
 ### Installing
 1. Clone the repository to your local machine.
 2. Install the required dependencies using pip:
-'pip install pandas plotly'
+'**pip install pandas plotly**'
 
 ### Usage
 To run the analysis and generate the visualizations:
 
 1. Open the terminal or command prompt.
 2. Navigate to the directory containing the cloned repository.
-3/ Run the Python script: 'python analysis.py'
-
-The visualizations will be saved in the output/ directory.
+3. Run the Python script: '**python analysis.py**'
 
 ## Data Sources
 
